@@ -1,4 +1,5 @@
 # Smart Job Matching Dashboard
+(IT HAS THE LINK OF CAMPUS RECRUITING PORTAL AS WELL AT THE END)
 
 A React + Express app that matches students to jobs and shows a dynamic gauge meter for match scores.
 
@@ -29,7 +30,7 @@ Backend runs on http://localhost:5000
 npm start
 Frontend runs on http://localhost:3000
 
-CAMPUS RECRUITING PORTAL:
+# **CAMPUS RECRUITING PORTAL**:
 https://github.com/ByteFusion7/Campus-recruiting-portal
 
 👩‍💻 Author
