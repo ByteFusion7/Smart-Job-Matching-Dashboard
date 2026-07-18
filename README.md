@@ -29,5 +29,8 @@ Backend runs on http://localhost:5000
 npm start
 Frontend runs on http://localhost:3000
 
+CAMPUS RECRUITING PORTAL:
+https://github.com/ByteFusion7/Campus-recruiting-portal
+
 👩‍💻 Author
 Created by Sakshee
